@@ -6,8 +6,8 @@
 ![asviero's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asviero&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
 
-* 💻 I’m currently working with Firebird
-* 🌱 I'm currently learning python, java and database
+* 💻 I’m currently working with PHP using Laravel
+* 🌱 I'm currently learning python and data science
 * ⚡ Fun fact: I'm looking for romance
   
 ##
