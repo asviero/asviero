@@ -2,7 +2,7 @@
 
 - 🤔 Aprendendo sobre novas tecnologias.
 - 🎓 Estudando Engenharia de Computação na UFSM.
-- 💼 Atuo como estagiário no IPASSP-SM (Instituto de Previdência e Assistência à Saúde dos Servidores Públicos Municipais de Santa Maria).
+- 💼 Atuo como estagiário na Alloy.
 - 🌱 Aprendendo mais sobre PHP.
 
 ## Linguagens Utilizadas
