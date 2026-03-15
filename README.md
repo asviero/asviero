@@ -2,7 +2,6 @@
 
 - 🤔 Aprendendo sobre novas tecnologias.
 - 🎓 Estudando Engenharia de Computação na UFSM.
-- 💼 Atuo como estagiário na Alloy.
 - 🌱 Aprendendo mais sobre Node.js.
 
 ## Linguagens Utilizadas
